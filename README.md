@@ -7,4 +7,4 @@ Time Woring redcode  for further development
 <p>2.Start time = time start 00:00:00 // +=1  </p>
 <p>3.Break Time = Stop and wait Start time agin </p> 
 <p>4.Stop Time = End recode and save start - end working to txt file  </p>
-coding by : Ratchanon
+<p>coding by : Ratchanon</p>
